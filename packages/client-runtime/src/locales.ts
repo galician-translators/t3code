@@ -6,6 +6,7 @@ const NATIVE_LANGUAGE_NAMES: Readonly<Record<string, string>> = {
   de: "Deutsch",
   es: "Español",
   fr: "Français",
+  gl: "Galego",
   ja: "日本語",
   ko: "한국어",
   "pt-BR": "Português (Brasil)",

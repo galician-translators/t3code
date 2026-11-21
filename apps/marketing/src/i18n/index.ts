@@ -2,6 +2,7 @@ import { de } from "./de";
 import { en, type Messages } from "./en";
 import { es } from "./es";
 import { fr } from "./fr";
+import { gl } from "./gl";
 import { ja } from "./ja";
 import { ko } from "./ko";
 import type { Locale } from "./locales";
@@ -12,6 +13,7 @@ import { zh } from "./zh";
 const MESSAGES: Record<Locale, Messages> = {
   en,
   es,
+  gl,
   "zh-Hans": zh,
   "pt-BR": ptBR,
   fr,
